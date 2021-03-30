@@ -25,3 +25,17 @@ h1{
     border: 10px solid black;
   
 }
+
+
+.imgArticulo{
+    width: 80%;
+    height: 80%;
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+
+.nombrearticulo{
+    color: black;
+    text-align:center;
+}
