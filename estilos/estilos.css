@@ -1,5 +1,4 @@
 body{
-    width: 70%;
     background: rgb(12, 12, 24);
     margin: 0px auto;
     border: 1px solid black;
@@ -8,6 +7,11 @@ body{
 }
 h1{
     color: white;
+    text-align: center;
+}
+
+.nameAPP{
+    background-color: black;
 }
 
 .seccionArticulos{
@@ -25,7 +29,7 @@ h1{
     float: left;
     border: 10px solid black;
     border-radius: 20px 20px 20px 20px;
-  
+    margin: 20px;
 }
 
 .imgArticulo{
