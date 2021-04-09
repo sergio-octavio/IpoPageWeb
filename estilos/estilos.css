@@ -47,12 +47,15 @@ h1{
 }
 
 .footer{
-    background: #f2f2f2;
+    background: #123456;
     padding: 4rem 0;
     text-align: center;
-    margin-top: 6rem;
 }
 
+.footer-text{
+    color: white;
+    font-size: large;
+}
 
 
 .footer{
