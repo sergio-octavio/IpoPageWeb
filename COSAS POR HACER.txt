@@ -1,0 +1,9 @@
+COSAS POR HACER:
+
+13/04/2021
+--------------
+
+El logo más grande. Que se vea como en el ejemplo de la plantilla. 
+Iconos de busqueda y el de usuario. 
+Hacer desplegable en el icono de usuario. 
+
