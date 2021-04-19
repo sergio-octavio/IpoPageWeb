@@ -7,12 +7,3 @@ El logo más grande. Que se vea como en el ejemplo de la plantilla.
 Iconos de busqueda y el de usuario. 
 Hacer desplegable en el icono de usuario. 
 
-
-19/04/2021
--------
-VENTANAS DE ERROR
-https://blog.aulaformativa.com/ejemplos-de-paginas-web-que-presentan-error-404/
-
-
-
-
