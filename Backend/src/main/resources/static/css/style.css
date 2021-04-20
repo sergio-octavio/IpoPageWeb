@@ -966,7 +966,7 @@ ul.top_icon li a{ color: #fff;
      display: inline-block;
      vertical-align: middle;
 }
- .main-menu ul>li:nth-child (6) {
+ .main-menu ul>li:nth-child {
      padding-right: 0px;
 }
  .nav>li {
