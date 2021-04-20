@@ -7,3 +7,14 @@ El logo más grande. Que se vea como en el ejemplo de la plantilla.
 Iconos de busqueda y el de usuario. 
 Hacer desplegable en el icono de usuario. 
 
+index parecido a la pantalla de producto
+
+Cambiar el color de ambas pantallas a los colores dellogo de la compañia
+
+Cambiar la pantalla de productos:
+-centrar elementos de la pantalla
+-cambiar el footer o en su defecto cambiar el footer de la pagina index para que sea parecido al de productos
+-cambiar la barra de navegacion
+
+Cambios relacionados con la pantalla de productos para poder hacer los metodos de los controladores
+
