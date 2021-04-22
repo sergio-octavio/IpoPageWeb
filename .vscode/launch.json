@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch PracticaApplication",
+            "request": "launch",
+            "mainClass": "ipo_project.practica.PracticaApplication",
+            "projectName": "IPO"
+        },
+        {
+            "type": "java",
             "name": "Spring Boot-PracticaApplication<practica>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
