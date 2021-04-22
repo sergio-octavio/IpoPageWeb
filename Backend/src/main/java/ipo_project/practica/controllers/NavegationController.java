@@ -5,10 +5,15 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 
 @Controller
-public class IndexController {
+public class NavegationController {
 
-    @GetMapping("/index")
-    public String showindex(Model model) {  
+    @GetMapping("/")
+    public String showIndex(Model model){
         return "index";
-    }   
+    }
+
+    @GetMapping("/ajustes")
+    public String showAjustes(Model model){
+        return "ajustes";
+    }
 }
