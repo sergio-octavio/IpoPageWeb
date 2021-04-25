@@ -12,6 +12,11 @@ public class NavegationController {
         return "index";
     }
 
+    @GetMapping("/productos")
+    public String showProductos(Model model){
+        return "productos";
+    }
+
     @GetMapping("/ajustes")
     public String showAjustes(Model model){
         return "ajustes";
