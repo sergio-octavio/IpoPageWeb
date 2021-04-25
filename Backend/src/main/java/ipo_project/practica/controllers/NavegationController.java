@@ -17,9 +17,9 @@ public class NavegationController {
         return "productos";
     }
     
-    @GetMapping("/productos2")
+    @GetMapping("/error404")
     public String showProductosActualizados(Model model){
-        return "productos2";
+        return "error404";
     }
 
     @GetMapping("/perfil")
