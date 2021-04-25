@@ -16,6 +16,7 @@ public class NavegationController {
     public String showProductos(Model model){
         return "productos";
     }
+    
     @GetMapping("/productos2")
     public String showProductosActualizados(Model model){
         return "productos2";
