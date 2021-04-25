@@ -22,6 +22,11 @@ public class NavegationController {
         return "productos2";
     }
 
+    @GetMapping("/perfil")
+    public String showPerfil(Model model){
+        return "perfil";
+    }
+
     @GetMapping("/ajustes")
     public String showAjustes(Model model){
         return "ajustes";
