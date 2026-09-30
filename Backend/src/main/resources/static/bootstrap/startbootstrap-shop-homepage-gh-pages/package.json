@@ -33,9 +33,9 @@
         "jquery": "3.5.1"
     },
     "devDependencies": {
-        "browser-sync": "2.26.13",
+        "browser-sync": "3.0.4",
         "del": "6.0.0",
-        "gulp": "4.0.2",
+        "gulp": "5.0.1",
         "merge-stream": "2.0.0"
     }
 }
